@@ -1,2 +1,2 @@
-# Sistema-Inform-tico-Pr-ctica-Program
+# Sistema Informático Práctica Program
 Semana 06
